@@ -21,6 +21,7 @@
 * [5.0](/tools/ARM_Translation_5.0.zip)
 * [5.1](/tools/ARM_Translation_5.1.zip)
 * [6.0](/tools/ARM_Translation_6.0.zip)
+* [7.1](/tools/ARM_Translation_7.1.zip)
 * [8.0](/tools/ARM_Translation_8.0.zip)
 
 ## Genymotion无法安装APK解决方案：
