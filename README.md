@@ -47,3 +47,17 @@
   An error occured while deploying the file.
   This probably means that the app contains ARM native code and your Genymotion device cannot run ARM instructions. You should either build your native code to x86 or install an ARM translation tool in your device.
 ```
+
+## 可用的genymotion
+
+https://mega.nz/#!ko5CHKjB!sKvk5l9RWNb-k84-KfmWSW3j-Aq1ZfUd2gBr1sottxM
+
+```
+1. 先安装genymotion-2.12.0-vbox.exe，点击next直到安装结束
+
+2. 再安装 genymotion-2.12.0.exe
+
+3、到桌面找到对应的软件，点击鼠标右键——打开文件位置
+
+4、将注册机genymotion2.x-patch.exe复制到上一步打开的目录下并运行，然后点击“应用”即可
+```
